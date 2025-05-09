@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:miw1513/k8s-calculator-config-prd.git
+    repoURL: git@github.com:moszie248/k8s-calculator-config-prd.git
     targetRevision: main
     path: manifest/prd
   destination:

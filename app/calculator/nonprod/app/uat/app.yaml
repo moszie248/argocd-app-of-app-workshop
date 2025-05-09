@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     path: ./
-    repoURL: git@github.com:miw1513/k8s-calculator-nonprd.git
+    repoURL: git@github.com:moszie248/k8s-calculator-nonprd.git
     targetRevision: main
     helm:
       releaseName: calculator-nonprd-uat
